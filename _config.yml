@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/berthasecho"
-url: "https://chefredaktion.github.io"
+baseurl: ""
+url: "https://berthasecho.de"
 
 # THEME-SPECIFIC CONFIGURATION
 title: Berthas Echo									# site's title
