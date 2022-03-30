@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: ""
+baseurl: "https://berthasecho.de"
 url: "https://berthasecho.de"
 
 # THEME-SPECIFIC CONFIGURATION
