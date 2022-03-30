@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: ""
-url: ""
+url: "https://berthasecho.de"
 
 # THEME-SPECIFIC CONFIGURATION
 title: Berthas Echo									# site's title
