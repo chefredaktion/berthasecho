@@ -3,7 +3,7 @@ layout: page
 title: Galerie
 subtitle: Bilder aus dem Schuljahr
 permalink: /galerie/
-gallery_path: assets/img/header/Gruppenfoto.jpg
+gallery_path: "assets/img/header/Gruppenfoto.jpg"
 tags: 
 ---
 
