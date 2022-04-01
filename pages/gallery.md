@@ -1,5 +1,6 @@
 ---
 layout: page
+hide: true
 title: Galerie
 subtitle: Bilder aus dem Schuljahr
 permalink: /galerie/
