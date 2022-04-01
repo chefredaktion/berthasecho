@@ -6,7 +6,7 @@ url: "https://berthasecho.de"
 title: Berthas Echo									# site's title
 description: "Die Website der Schülerzeitung des Bertha-von-Suttner-Gymnasiums"	# used by search engines
 avatar: assets/logo.png								# Empty for no avatar in navbar
-favicon: assets/favicon.ico								# Icon displayed in the tab
+favicon: assets/favicon.ico						# Icon displayed in the tab
 
 # Header and footer text
 header_text: Willkommen auf der Website von Berthas Echo		# Change Blog header text
