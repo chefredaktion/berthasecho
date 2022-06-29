@@ -1,6 +1,3 @@
-# ACHTUNG: INFORMATION!
-Zur Zeit kann man die Website leider nicht über das Schulinternet aufrufen, da die Website irgendwie geblockt wird.
-
 # Willkommen!
 ### ... auf dem Github-Repository der Schülerzeitung "Berthas Echo".
 
