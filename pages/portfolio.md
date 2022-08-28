@@ -1,6 +1,6 @@
 --- 
 layout: page
-hide: true
+hide: false
 title : Archiv
 permalink: /archiv/
 subtitle: Ältere Artikel
