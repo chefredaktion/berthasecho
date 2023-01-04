@@ -11,7 +11,7 @@ favicon: assets/favicon.ico						# Icon displayed in the tab
 # Header and footer text
 header_text: Willkommen auf der Website von Berthas Echo		# Change Blog header text
 header_feature_image: assets/startseite_header.jpg
-header_feature_image_responsive: true
+header_feature_image_responsive: false
 footer_text: Berthas Echo 2023
 
 # Blog
