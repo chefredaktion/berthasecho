@@ -2,19 +2,19 @@
 layout: page
 title: Über uns
 permalink: /ueber/
-feature-img: "assets/img/header/Gruppenfoto.jpg"
+feature-img: "assets/img/Gruppenfoto.jpg"
+icon: fa-newspaper
 ---
 
-Hey, 
-wir freuen uns, dich auf unserer neuen Website begrüßen zu dürfen.
+Hey!
+Wir freuen uns, dich auf unserer Webseite begrüßen zu dürfen.
 
 ## Wer wir sind
 
-Wir sind die Schülerzeitung des Bertha-von-Suttner-Gymnasiums im schönen südlichen Teil von Babelsberg. Uns gibt es schon seit ca. 2014, mit einigen Unterbrechungen.
+Wir sind die Schülerzeitung des Bertha-von-Suttner-Gymnasiums in Babelsberg. Uns gibt es seit etwa 2014, allerdings mit einigen Unterbrechungen.
 
-Das ist nun schon der dritte Website-Versuch. Die letzte Website war etwas teuer (80€ / Jahr), daher haben wir diese offline genommen. Die neue Website hosten wir über Github. Das hat mehrere Vorteile.
-Zuerst einmal sind wir unabhängig von jeglichen Diensten der Schule.
-Desweiteren ist die Website nur statisch (reicht völlig aus für einen Blog), das erhöht die Sicherheit.
-Die Kosten sind DEUTLICH geringer.
+## Die Webseite
+Auf dieser Webseite möchten wir natürliche aktuelle schulische Themen behandeln, die nicht auf die nächste Ausgabe warten können. Außerdem sollen vertiefende Ergänzungen zu Artikeln, die zu viel Platz in den Print-Ausgaben konsumieren würden, erscheinen. 
+Letztendlich sind wir aber flexibel und machen, worauf wir Lust haben. ;)
 
-Na, ja viel Spaß auf der Website <3
+Jetzt aber noch viel Spaß auf der Website.

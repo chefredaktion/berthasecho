@@ -1,12 +1,11 @@
 --- 
-layout: page
-hide: false
-title : Archiv
-permalink: /archiv/
-subtitle: Ältere Artikel
-feature-img: "assets/img/header/Gruppenfoto.jpg"
-icon: fa-box-archive
-tags: 
+layout: portfolio
+hide: true
+title : Versteckte Artikel
+permalink: /secret/
+subtitle: Artikel aus den Ausgaben...
+feature-img: "assets/img/header/.jpg"
+icon: fa-archive
 ---
 
 {% include portfolio.html %}
