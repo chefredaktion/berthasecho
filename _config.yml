@@ -1,0 +1,60 @@
+# SITE CONFIGURATION
+baseurl: ""
+url: "https://berthasecho.de"
+
+# THEME-SPECIFIC CONFIGURATION
+title: Berthas Echo							# site's title
+description: "Die Webseite der Schülerzeitung des Bertha-von-Suttner-Gymnasiums."	# used by search engines
+avatar: assets/img/logo.png						# Empty for no avatar in navbar
+favicon: assets/img/favicon.ico						# Icon displayed in the tab
+
+# Header and footer text
+header_text: Willkommen!						# Change Blog header text
+header_feature_image: assets/img/startseite_header.jpg			# Bild auf der Startseite
+header_feature_image_responsive: false					# Einstellen, ob ein anderes Bild für kleinere displays verwendet werden soll
+footer_text: Berthas Echo 2023						# Text unten auf der Seite
+header_text: Willkommen auf der Website von Berthas Echo		# Change Blog header text
+header_feature_image: assets/startseite_header.jpg
+header_feature_image_responsive: false
+footer_text: Berthas Echo 2023
+
+# Blog
+excerpt: truncate						# Or "truncate" (first 250 characters), "false" to disable
+post_navigation: true
+color_image: /assets/img/lineart.png				# A bit transparent for color posts.
+
+# Features
+# More in the _data folder for share buttons, author and language
+# For layout customization, go to the "_sass > base" folder, and check "_variables.scss"
+katex: false						# Enable if using math markup
+mermaid: false						# Enable mermaid-js for sequence and diagrams
+google_analytics:					# Tracking ID, e.g. "UA-000000-01"
+cookie_consent: false					# To respect the usage of cookies
+color_theme: auto					# auto, dark or light
+
+# Comments
+comments:
+  disqus_shortname:					# Your discus shortname for comments
+  cusdis_app_id:					# Your cusdis data-app-id
+  utterances:						# Enable by filling below information. For more info, go to https://utteranc.es
+    repo:						# your public comments repository (e.g. owner/repo)
+    issue-term:						# Issue term (e.g. "comment" consider issues with this word in the title as comments)
+
+# PAGINATION
+paginate: 10
+paginate_path: "/blog/page:num"
+
+# PORTFOLIO
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:name
+
+# BUILD SETTINGS
+sass:
+  style: compressed
+plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-feed]
+exclude: [".jekyll-cache", ".jekyll-metadata", ".idea", "vendor/*", "assets/node_modules/*"]
+
+# theme: type-on-strap					# if using the theme as a jekyll theme gem
+remote_theme: sylhare/Type-on-Strap			# If using as a remote_theme in github
