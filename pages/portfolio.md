@@ -1,9 +1,9 @@
 --- 
 layout: portfolio
 hide: true
-title : Versteckte Artikel
-permalink: /secret/
-subtitle: Artikel aus den Ausgaben...
+title : Archiv
+permalink: /archiv/
+subtitle: Alte Artikel
 feature-img: ""
 icon: fa-archive
 ---
