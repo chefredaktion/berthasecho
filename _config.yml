@@ -16,7 +16,7 @@ footer_text: Berthas Echo 2023						# Text unten auf der Seite
 
 # Blog
 excerpt: truncate						# Or "truncate" (first 250 characters), "false" to disable
-post_navigation: true
+post_navigation: false      # Navigation zwischen den Artikeln
 color_image: /assets/img/lineart.png				# A bit transparent for color posts.
 
 # Features
