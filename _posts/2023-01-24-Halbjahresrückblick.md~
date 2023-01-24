@@ -2,8 +2,8 @@
 layout: post
 author: berthasecho
 title: Halbjahresrückblick					# Title of the page
-feature-img: "assets/img/Artikel/Vorschaubilder/Hoffest_Stand"	# Add a feature-image to the post
-thumbnail: "assets/img/Artikel/Header/Hoffest_Schülerzeitung"		# Add a thumbnail image on blog view
+#feature-img: "assets/img/Artikel/Vorschaubilder/"	# Add a feature-image to the post
+#thumbnail: "assets/img/Artikel/header/"		# Add a thumbnail image on blog view
 tags: [Schule]
 ---
 
