@@ -1,7 +1,7 @@
 ---
 layout: post
 author: berthasecho
-title: Halnjahresrückblick					# Title of the page
+title: Halbjahresrückblick					# Title of the page
 #feature-img: "assets/img/Artikel/Vorschaubilder/"	# Add a feature-image to the post
 #thumbnail: "assets/img/Artikel/header/"		# Add a thumbnail image on blog view
 tags: [Schule]
