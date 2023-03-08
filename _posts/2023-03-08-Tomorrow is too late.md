@@ -18,3 +18,5 @@ Anschließend folgte eine Laufdemo durch die Potsdamer Innenstadt.
 Falls du es dieses Jahr verpasst hast, komm auf jeden Fall nächstes Mal mit! Unsere Zukunft liegt in unseren Händen, also sei mit dabei bei der Gestaltung - solange es noch geht, denn “Tomorrow is too late”. 
 
 Sophie Fallis
+
+Bildquelle: Fridays For Future Potsdam (Instagram)
