@@ -3,7 +3,7 @@ layout: post
 author: berthasecho
 title: "Tomorrow is too late"		
 description: Fahrraddemo und 1.500 Demonstrierende in Potsdam
-feature-img: "assets/img/Artikel/Vorschaubilder/Fahrraddemo2023-03.jpg"
+feature-img: "assets/img/Artikel/Header/Klimastreik2023-03.jpg"
 thumbnail: "assets/img/Artikel/Header/Klimastreik2023-03.jpg"
 tags: [Schule, Regionales]
 ---
