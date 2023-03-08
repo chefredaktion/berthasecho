@@ -1,10 +1,10 @@
 ---
 layout: post
 author: berthasecho
-title: #"Tomorrow is too late"		
-##Fahrraddemo und 1.500 Demonstrierende in Potsdam
-feature-img: "assets/img/Artikel/Vorschaubilder/Fahrraddemo2023-03.jpeg"
-thumbnail: "assets/img/Artikel/Header/Klimastreik2023-03.jpeg"
+title: "Tomorrow is too late"		
+description: Fahrraddemo und 1.500 Demonstrierende in Potsdam
+feature-img: "assets/img/Artikel/Vorschaubilder/Fahrraddemo2023-03.jpg"
+thumbnail: "assets/img/Artikel/Header/Klimastreik2023-03.jpg"
 tags: [Schule]
 ---
 Am 3.März kam es in Potsdam zu “Fridays For Future"-Protesten anlässlich des 12.Globalen Klimastreiks. Insgesamt wurden etwa 30 Schulen mit 5 Fahrradtouren abgefahren. Eine dieser Fahrraddemos passierte auch unsere Schule, an welcher sich gut zwei Dutzend Schüler*innen angeschlossen haben.
