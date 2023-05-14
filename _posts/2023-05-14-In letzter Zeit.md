@@ -34,4 +34,4 @@ Der Abistreich dieses Jahr am 21.04. war sehr abwechslungsreich, die Schule war 
 Es gab beklebte Böden, versperrte Wege und in den Klassenräumen war auch alles auf den Kopf gestellt. Jede:r einzelne Schüler:in wurde einem Raum zugeteilt und dort hat man dann mit den 12. Klassen zusammen, einen Tanz einstudiert. Dieser wurde dann am Ende bei einem großen Tanzwettbewerb auf dem Schulhof präsentiert. Die Lehrer:innen haben auch mitgetanzt es war sehr unterhaltsam.
 
 
-Autor:innen: Emilie Posern, Hannes Petersson, Sophie Fallis, Arya Alsulaiman, Emma Schramm, Jette Müller, Annika Hesse
+Autor:innen: Emilie Posern, Hannes Petersson, Sophie Fallis, Arya Alsulaiman, Mila Stari, Emma Schramm, Jette Müller, Annika Hesse
