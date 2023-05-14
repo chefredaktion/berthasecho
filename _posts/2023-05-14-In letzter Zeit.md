@@ -3,8 +3,8 @@ layout: post
 author: berthasecho
 title: "In letzter Zeit bei uns..."		
 description: 
-feature-img: "assets/img/Artikel/Header/Abistreich_Hof.JPG"
-thumbnail: "assets/img/Artikel/Header/Abistreich_Hof.JPG"
+feature-img: "assets/img/Artikel/Header/Abistreich_Hof2.JPG"
+thumbnail: "assets/img/Artikel/Header/Abistreich_Hof2.JPG"
 tags: [Schule, Regionales]
 ---
 **Kultur bei Berthas Salon**
@@ -14,7 +14,7 @@ Wir freuen uns schon aufs nächste Jahr!
 
 **Wissenschaft und Museen**
 Während sich der 12. Jahrgang auf das Abitur vorbereitete, erfreuten sich die anderen Jahrgänge an Ausflügen…
-Für den 10. Jahrgang führte der Tag der Naturwissenschaften nach Berlin in das Naturkundemuseum. Einige bearbeiteten Aufgaben für den Bio-Unterricht, während andere das Museum auf eigene Faust erkundeten. Nach etwas mehr als zwei Stunden  verließen wir bereits wieder das Museum und nahmen definitiv einige neue Fakten zu Dinosauriern und der Evolution mit, auch diejenigen, die bereits dort waren.
+Für den 10. Jahrgang führte der Tag der Naturwissenschaften nach Berlin in das Naturkundemuseum. Einige bearbeiteten Aufgaben für den Bio-Unterricht, während andere das Museum auf eigene Faust erkundeten. Nach etwas mehr als zwei Stunden  verließen wir bereits wieder das Museum und nahmen definitiv einige neue Fakten zu Dinosauriern und der Evolution mit, auch diejenigen, die bereits dort waren.  
 Der 7. Jahrgang war im Spectrum Berlin, wo sie zu den Themen Strom, optischen Täuschungen, Licht und Schall an vielen interessanten Stationen experimentieren konnten. In jedem Raum gab es viel Abwechslung, sodass der Tag sehr schnell zu Ende gegangen ist.
 
 **Was für ein Theater!**
