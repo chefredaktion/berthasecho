@@ -23,10 +23,12 @@ Es handelte von der Irrfahrt der St. Louis, einem Passagierschiff der Hamburg-Am
 Mit Hilfe eines sehr schön gestalteten Bühnenbildes, passenden Requisiten und tollen Effekten wurden wir als Zuschauer:innen von den 12-Klässlern durch die Ereignisse dieser Reise geleitet.
 Die Vorstellung dauerte ungefähr 2 Stunden und beschrieb die vielseitigen Geschehnisse der Reisenden sehr gut. So konnte man während des Kulturgenusses zugleich Neues aufnehmen.
 Wir sind gespannt auf folgende Aufführungen weiterer  DS-Kurse. 
+
 **DELF**
-{% include aligner.html images="Textbilder/DELF.jpeg" %}
+{% include aligner.html images="Artikel/DELF.jpeg" %}
 Drei Schülerinnen aus der 10a haben erfolgreich an der DELF Prüfung teilgenommen!
 DELF ist eine international anerkannte Sprachprüfung, welche Französischkenntnisse von A1 bis C2 testet. Da es eine Kooperation mit der Französischen Botschaft ist und ihre Prüfungen erst nach Frankreich geschickt und dort ausgewertet werden müssen, wird es noch ein paar Wochen dauern, bis sie die offiziellen Zertifikate in den Händen halten können.
+
 **“Bertha tanzt”**
 Der Abistreich dieses Jahr am 21.04. war sehr abwechslungsreich, die Schule war komplett verwandelt.
 Es gab beklebte Böden, versperrte Wege und in den Klassenräumen war auch alles auf den Kopf gestellt. Jede:r einzelne Schüler:in wurde einem Raum zugeteilt und dort hat man dann mit den 12. Klassen zusammen, einen Tanz einstudiert. Dieser wurde dann am Ende bei einem großen Tanzwettbewerb auf dem Schulhof präsentiert. Die Lehrer:innen haben auch mitgetanzt es war sehr unterhaltsam.
