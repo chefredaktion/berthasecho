@@ -3,8 +3,8 @@ layout: post
 author: berthasecho
 title: "Potsdamer Tag der Wissenschaften"		
 description: 
-feature-img: "assets/img/Artikel/Header/StandBild11.jpeg"
-thumbnail: "assets/img/Artikel/Header/StandBild1.jpeg"
+feature-img: "assets/img/Artikel/Header/StandBild1.jpeg"
+thumbnail: "assets/img/Artikel/Header/StandBild11.jpeg"
 tags: [Regionales]
 ---
 Am 6. Mai 2023 fand der Potsdamer Tag der Wissenschaften in der Universität Potsdam statt. Auch unsere Schule hatte dir Möglichkeit dort zu zeigen, wie wir mit wissenschaftlichen Methoden arbeiten. 
