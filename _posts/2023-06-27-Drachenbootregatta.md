@@ -3,8 +3,8 @@ layout: post
 author: berthasecho
 title: "Drachenbootregatta"		
 description: Um die Wette auf der "Alten Fahrt"
-feature-img: "assets/img/Artikel/Header/drachenbootwasser"
-thumbnail: "assets/img/Artikel/Header/drachenbootgruppe"
+feature-img: "assets/img/Artikel/Header/drachenbootwasser.jpg"
+thumbnail: "assets/img/Artikel/Header/drachenbootgruppe.jpg"
 tags: [Regionales]
 ---
 Am Freitag den 9.Juni fand zum ersten Mal seit zwei Jahren die Drachenbootregatta auf der Freundschaftsinsel statt.
