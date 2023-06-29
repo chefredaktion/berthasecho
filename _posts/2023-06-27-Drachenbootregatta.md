@@ -16,7 +16,7 @@ Für unsere Schule sind zwei Teams angetreten, eins bestehend aus der 8b und das
 Bei diesen Rennen qualifizierten sich die Teams unserer Schule für das große Finale in ihren Altersstufen. Dabei ging es dann um den 1.bis 3.Platz. Der Rest der Klassen feuerte die Fahrenden von der Brücke über der Alten Fahrt oder vom Rand aus kräftig an. Und das Jubeln war auch bei den zwei Teams danach groß, denn es haben beide den 1. Platz geholt und somit gegen vier weitere Schulen gewonnen.
 
 Insgesamt war es ein sehr schöner, fairer und aktiver Wettbewerb, welcher von nun an wieder jedes Jahr stattfinden soll. 
-Einen herzlichen Glückwunsch an die Gewinner Teams, von denen unten in der Vitrine auch ihre Preise ausgestellt sind. 
+Einen herzlichen Glückwunsch an die Gewinner Teams, von denen unten in der Vitrine auch die Preise ausgestellt sind. 
 
 
 Artikel von Emilie Posern
