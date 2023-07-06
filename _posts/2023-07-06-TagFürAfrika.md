@@ -3,8 +3,8 @@ layout: post
 author: berthasecho
 title: "Tag für Afrika 2023"		
 description: Um die Wette auf der "Alten Fahrt"
-feature-img: "assets/img/Artikel/Header/TagFürAfrika.jpg"
-thumbnail: "assets/img/Artikel/Header/TagFürAfrika.jpg"
+feature-img: "assets/img/Artikel/Header/TagFürAfrika.jpeg"
+thumbnail: "assets/img/Artikel/Header/TagFürAfrika.jpeg"
 tags: [Regionales]
 ---
 Der Tag für Afrika war (mal wieder) ein großer Erfolg. Das Prinzip des Tages ist es, anstatt in die Schule zu gehen, sich eine Arbeit zu suchen, für die man Geld bekommt. Man kann zum Beispiel die Scheiben der Tante putzen oder auf den Hund der Nachbarn aufpassen.
