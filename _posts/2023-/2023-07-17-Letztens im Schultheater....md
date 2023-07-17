@@ -3,8 +3,8 @@ layout: post
 author: berthasecho
 title: "Letztens im Schultheater..."		
 description: 
-feature-img: "assets/img/Artikel/Header/TagFürAfrika.jpeg"
-thumbnail: "assets/img/Artikel/Header/TagFürAfrika.jpeg"
+feature-img: "assets/img/Artikel/Header/DS10Hexenjagd.jp"
+thumbnail: "assets/img/Artikel/Header/DS10Hexenjagd.jpg"
 tags: [Schule]
 ---
 …Ende sowie Mitte Juni gab es bei uns die letzten Theaterstücke der DS-Kurse zu sehen. Falls Ihr nicht da wart oder Euch noch einmal die Themen in Erinnerung rufen wollt, viel Spaß beim Lesen des letzten Artikels diesen Schuljahres.
