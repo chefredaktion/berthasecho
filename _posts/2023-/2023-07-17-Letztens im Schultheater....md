@@ -3,7 +3,7 @@ layout: post
 author: berthasecho
 title: "Letztens im Schultheater..."		
 description: 
-feature-img: "assets/img/Artikel/Header/DS10Hexenjagd.jp"
+feature-img: "assets/img/Artikel/Header/DS10Hexenjagd.jpg"
 thumbnail: "assets/img/Artikel/Header/DS10Hexenjagd.jpg"
 tags: [Schule]
 ---
