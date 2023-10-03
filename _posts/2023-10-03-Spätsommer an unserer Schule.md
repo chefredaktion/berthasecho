@@ -7,7 +7,7 @@ feature-img: "assets/img/Artikel/Vorschaubilder/HoffestD.JPG"
 thumbnail: "assets/img/Artikel/Vorschaubilder/HoffestD.JPG"
 tags: [Schule,Regionales]
 ---
-Nachdem nun schon 6 Schulwochen vergangen sind, können wir seit unseren obligatorischen Klassenfotos am ersten Schultag bereits auf viele Ereignisse zurückblicken. In der dritten Woche nahmen einige Schülerinnen und Schüler an einer Fahrraddemo  zum Klimastreik teil, wir wählten einen neuen Schülersprecher und die Woche darauf war unser jährliches Hoffest sowie tags zuvor der Spendenlauf.
+Nachdem nun schon 6 Schulwochen vergangen sind, können wir seit unseren obligatorischen Klassenfotos am ersten Schultag bereits auf viele Ereignisse zurückblicken. In der dritten Woche nahmen einige Schülerinnen und Schüler an einer Fahrraddemo  zum Klimastreik teil, wir wählten einen neuen Schülersprecher und die Woche darauf war unser jährliches Hoffest sowie tags zuvor der Spendenlauf. 
 
 {% include aligner.html images="Artikel/Vorschaubilder/klimaE.jpg" }
 Die Fahrradfahrt zum Globalen Klimastreik fand am 15.09. statt. Insgesamt wurde von mehr als 20 Schulen Potsdams aus sternförmig Richtung Innenstadt geradelt. Gegen 13:30 Uhr kam die Route, die am Schulzentrum am Stern startete, bei uns an und es gab auch Kinder der Goethe Schule die sich der Fahrraddemo am Peter-Weiß-Platz anschlossen. Viele Fahrten trafen sich am alten Markt und Ziel war dann der Luisenplatz. Dort angekommen wurde von ca 450 Teilnehmenden gesprochen, die mit dem Fahrrad gekommen seien.
