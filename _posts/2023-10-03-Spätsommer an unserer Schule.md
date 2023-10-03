@@ -1,7 +1,7 @@
 ---
 layout: post
 author: berthasecho
-title: "Spätsommer an unserer Schule"		
+title: "Spaetsommer an unserer Schule"		
 description: Start ins neue Schuljahr 
 feature-img: "assets/img/Artikel/Vorschaubilder/HoffestD.JPG"
 thumbnail: "assets/img/Artikel/Vorschaubilder/HoffestD.JPG"
